@@ -19,4 +19,12 @@ Admin untuk melakukan posting berita dan Reader sebagai user yang menggunakan at
 2. Create, Read, Update dan Delete untuk access sebagai Admin.
 3. Upload image dari Android Device menuju server menggunakan Retrofit 2.
 
+## Username & Password ##
+* Admin
+Username : vrras
+Password : 12345
+* Reader
+Username : vian
+Password : 12345
+
 Enjoy! Share and be creative cuy!
